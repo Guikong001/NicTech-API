@@ -5,7 +5,7 @@
 站点**仅接受使用Github账号或微信授权登录**的新用户注册。<br>
 站点基于songquanpeng/one-api项目，支持CDN加速。<br/>
 具体信息欢迎访问调用站查看。<br/>
-NicTech API不会保存对话数据，但会过滤国内政治文化铭感词汇（包括但不限于政治敏感词、违法犯罪相关词汇），涉及到相关敏感词时，系统将拒绝提供回复。<br>
+NicTech API不会保存对话数据。<br>
 
 目前站点可以接如的应用包括但不限于：<br/>
 1. [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
